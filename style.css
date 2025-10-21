@@ -394,7 +394,7 @@ section {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
   width: 200px;
-  height: 200px;
+  height: 230px;
   object-fit: cover;
 }
 
